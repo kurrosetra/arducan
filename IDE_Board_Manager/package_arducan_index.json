@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/kurrosetra/arducan/raw/master/IDE_Boards_Manager/arduCan-1.0.0.tar.bz2",
+          "url": "https://github.com/kurrosetra/arducan/raw/master/IDE_Board_Manager/arduCan-1.0.0.tar.bz2",
           "archiveFileName": "arduCan-1.0.0.tar.bz2",
           "checksum": "SHA-256:5d3102a6bdab89f3a88e34abb36984a76219fbada0581c7c0cd564eeac41a14c",
           "size": "59640",
