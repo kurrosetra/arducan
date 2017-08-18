@@ -1,0 +1,37 @@
+{
+  "packages": [
+    {
+      "name": "arduCan",
+      "maintainer": "Miftakur Rohman",
+      "websiteURL": "https://github.com/kurrosetra/arducan",
+      "email": "kurrosetra@gmail.com",
+      "help": {
+        "online": "https://github.com/kurrosetra/arducan"
+      },
+      "platforms": [
+        {
+          "name": "at90canXXX Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/kurrosetra/arducan/raw/master/IDE_Boards_Manager/arduCan-1.0.0.tar.bz2",
+          "archiveFileName": "arduCan-1.0.0.tar.bz2",
+          "checksum": "SHA-256:a732130c7663e0e44516df0a3b53b87d1e0bc0f0f75bb9779f59516cd1b96370",
+          "size": "61587",
+          "help": {
+            "online": "https://github.com/kurrosetra/arducan"
+          },
+          "boards": [
+            {"name": "arduCan"},
+            {"name": "canMini"}
+          ],
+          "toolsDependencies": [
+            { "packager": "arduino", "name": "avr-gcc", "version": "4.8.1-arduino5" },
+            { "packager": "arduino", "name": "avrdude", "version": "6.0.1-arduino5" }   
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
