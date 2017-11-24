@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/kurrosetra/arducan/raw/master/IDE_Boards_Manager/arduCan-1.0.0.tar.bz2",
           "archiveFileName": "arduCan-1.0.0.tar.bz2",
-          "checksum": "SHA-256:a732130c7663e0e44516df0a3b53b87d1e0bc0f0f75bb9779f59516cd1b96370",
-          "size": "61587",
+          "checksum": "SHA-256:10af861570722273b290de07853439ab064645b34bb064dc03c045f49ac23b07",
+          "size": "60302",
           "help": {
             "online": "https://github.com/kurrosetra/arducan"
           },
